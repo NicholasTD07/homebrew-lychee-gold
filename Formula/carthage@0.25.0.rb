@@ -1,4 +1,4 @@
-class CarthageAt0_25_0 < Formula
+class CarthageAt0250 < Formula
   desc "Decentralized dependency manager for Cocoa"
   homepage "https://github.com/Carthage/Carthage"
   url "https://github.com/Carthage/Carthage.git",
